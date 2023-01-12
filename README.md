@@ -1,3 +1,8 @@
 # 👋 Hi, I’m @whitekeep
 
-sorry, it's nothing here
+Student, learning Golang
+
+My contacts:
+- Email: contact@wkeep.ru
+- Discord: whitekeep#4427
+- vk.com: [vk.com/wkeep](vk.com/wkeep)
