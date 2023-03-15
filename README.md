@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @whitekeep
 
-Student, learning Golang
+Student, learning Golang and DevOps
 
 My contacts:
 - Email: contact@wkeep.ru
