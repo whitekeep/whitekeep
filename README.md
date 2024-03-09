@@ -1,8 +1,7 @@
 # 👋 Hi, I’m @whitekeep
 
-Student, learning Golang and DevOps
+Student, learning Golang, DevOps and SRE
 
 My contacts:
 - Email: contact@wkeep.ru
-- Discord: whitekeep#4427
-- vk.com: [vk.com/wkeep](vk.com/wkeep)
+- Discord: `whitekeep`
